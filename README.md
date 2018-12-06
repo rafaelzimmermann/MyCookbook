@@ -7,4 +7,4 @@ No code in here, only recipes.
 * Hamburger
   * [Chickpea Burger](burger/chickpea_burger.md)
 * Hot sauce
-  * [Pineapple hot sauce](hot_sauce/pinaeapple_hot_sauce.md)
+  * [Pineapple hot sauce](hot_sauce/pineapple_hot_sauce.md)
