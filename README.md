@@ -2,9 +2,7 @@
 No code in here, only recipes.
 
 ## Recipes
-* Chicken Wings
-  * [Crispy Wings](chicken_wings/crispy_wings.md)
-* Hamburger
-  * [Chickpea Burger](burger/chickpea_burger.md)
-* Hot sauce
-  * [Pineapple hot sauce](hot_sauce/pineapple_hot_sauce.md)
+  * [Chickpea Burger](chickpea_burger.md)
+  * [Crispy Wings](crispy_wings.md)
+  * [Falafel](falafel.md)
+  * [Pineapple hot sauce](pineapple_hot_sauce.md)
