@@ -1,15 +1,15 @@
 # Crispy Wings
 
 ## Ingredients
-- 2 pounds chicken wings, pat dry
+- 1Kg chicken wings, pat dry
 - ¾ cup cornstarch, divided
 - ¼ cup flour
-- 1 tbsp paprika
-- 1 tbsp garlic powder
-- 1 tbsp cayenne pepper
-- 2 tbsp baking powder
-- 1 tbsp black pepper
-- 2 tbsp salt
+- 1 tsp paprika
+- 1 tsp garlic powder
+- 1 tsp cayenne pepper
+- 2 tsp baking powder
+- 1 tsp black pepper
+- 2 tsp salt
 - ⅔ cup water Oil, for frying
 
 # Directions
